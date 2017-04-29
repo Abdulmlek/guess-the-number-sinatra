@@ -1,0 +1,17 @@
+h1 {
+  font-size: 5em;
+} 
+body{
+  color: white;
+  text-align: center;
+  background-image: url("/img/dark-bg1.jpg");
+  font-family: 'Baloo', cursive;
+}
+.btn{
+  color: white;
+  background-color: purple;
+  padding: 1em; /*the size of the line */
+  text-decoration: none;/* for chnage the line under the world */
+  display: inline-block; /* for the index*/
+  
+}
